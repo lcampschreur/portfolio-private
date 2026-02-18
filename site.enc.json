@@ -1,0 +1,11 @@
+{
+  "salt": "827pFsKwNQBQfXQSDCydtA==",
+  "iv": "Z7dksGjv7Q3dP/OQ",
+  "iterations": 600000,
+  "chunks": [
+    "site.enc.0",
+    "site.enc.1",
+    "site.enc.2"
+  ],
+  "totalSize": 126020303
+}
