@@ -1,6 +1,6 @@
 {
-  "salt": "1m2KHv12Uz+kQN1zFjhtjw==",
-  "iv": "K8ya8ZmY0tVATqCt",
+  "salt": "onRqxNyNPuYJ2zbFD9dtYA==",
+  "iv": "xOQdPFxiVsqCUJT7",
   "iterations": 600000,
   "chunks": [
     "site.enc.0",
